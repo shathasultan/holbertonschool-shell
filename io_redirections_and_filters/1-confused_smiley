@@ -1,7 +1,5 @@
 
 #!/bin/bash
 
-# prints: "(Ôo)'"
-
 printf "\"(\303\224o)'\\n"
 
