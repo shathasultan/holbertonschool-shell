@@ -1,1 +1,1 @@
-Shell Project
+This project is about basic shell commands

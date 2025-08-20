@@ -1,1 +1,1 @@
-Scripts for user/permissions tasks
+This project is about shell permissions
