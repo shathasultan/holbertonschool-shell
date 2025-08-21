@@ -1,4 +1,5 @@
+
 #!/bin/bash
 
-printf '"(\303\224o)'\''\n'
+echo '"(Ôo)'
 
