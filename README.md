@@ -1,3 +1,5 @@
 
 # Holberton School Shell
-This repository contains solutions to the shell tasks.
+
+This repository contains solutions to the Shell tasks.
+
