@@ -1,0 +1,7 @@
+
+#!/bin/bash
+
+# creates the exact filename and writes "Best School\n" into it
+
+printf "Best School\n" > "\\*\\\\'\"Best School\"'\\\\*\$\?\*\*\*\*\*:)"
+
