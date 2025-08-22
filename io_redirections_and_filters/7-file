@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-# Creates the file named exactly: \*\'"Best School"\'\*$?*****:) with content "Best School\n"
+# creates: *'"Best School"'*$?*****:) with "Best School\n"
 
-printf "Best School\n" > "\\*\\\\'\"Best School\"'\\\\*\\$\\?\\*\\*\\*\\*\\*:)"
+echo "Best School" > "\\*\\'\"Best School\"\\'\\*\\$\\?\\*\\*\\*\\*\\*:)"
 
