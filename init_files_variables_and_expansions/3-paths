@@ -1,3 +1,2 @@
-  GNU nano 6.2                                                                                            3-paths                                                                                                      
 #!/bin/bash
-echo $PATH | tr ':' '\n' | wc -l
+echo "$PATH" | tr ':' '\n' | grep -vc '^$'
